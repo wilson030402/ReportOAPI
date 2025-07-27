@@ -1,0 +1,7 @@
+Dans la section **Area Estimates** du rapport d’optimisation FPGA, vous verrez notamment :
+
+* **ALUT (Adaptive Look‑Up Table)** : éléments de base du FPGA qui implémentent la logique combinatoire ; chaque ALUT peut représenter une petite fonction booléenne (généralement 4 à 6 entrées).
+* **FF (Flip‑Flop)** : bascules séquentielles utilisées pour regrouper les données à chaque cycle d’horloge ; elles constituent les registres du pipeline et portent l’état interne des circuits.
+* **MLAB (Memory Logic Array Block)** : petite mémoire distribuée dans les blocs logiques, idéale pour stocker des FIFO peu profondes ou des tables de correspondance (lookup tables) ; plus fine granularité que la RAM bloc.
+* **RAM (Block RAM ou M20K/M20K)** : blocs mémoire dédiés de plus grande capacité (généralement de 20 Kb sur les FPGA Intel) ; optimisés pour stocker de larges buffers de données ou des tables de coefficients.
+* **DSP (Digital Signal Processing block)** : unités spécialisées intégrées pour effectuer efficacement des opérations arithmétiques complexes (multiplications, MACs) ; idéales pour le filtrage, la FFT ou les calculs de matrices.
