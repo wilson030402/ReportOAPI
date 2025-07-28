@@ -1,0 +1,14 @@
+Map
+Le netlist RTL issu de la HLS est traduit en primitives FPGA (LUTs, flip‑flops, DSP blocks, RAM blocks) par l’outil de « technology mapping ».
+
+Place
+Chaque instance de ces primitives est assignée à une position physique précise sur la matrice FPGA, en fonction des contraintes de timing et de routage.
+
+Route
+Les interconnexions physiques (routing) entre LUTs, blocs mémoire et DSP sont établies sur les fils et switch matrices du FPGA, en veillant à respecter les délais critiques.
+
+Analyse de timing (STA)
+Une fois le placement et le routage terminés, l’outil effectue une analyse statique des délais (Static Timing Analysis) pour vérifier que tous les chemins critiques satisfont la fréquence cible (f<sub>MAX</sub>).
+
+Optimisation de timing
+Si certains chemins sont trop longs, l’outil peut itérer automatiquement : réajuster le placement et rerouter des portions du design pour corriger les violations de timing.
