@@ -1,0 +1,37 @@
+Requested size
+	
+524288 bytes
+Implemented size
+	
+4194304 bytes
+Number of banks
+	
+1
+Bank width
+	
+64 bits
+Bank depth
+	
+65536 words
+Private memory
+	
+Stall-free
+Memory Usage
+	
+1792 RAMs
+Number of replicates
+	
+8
+Number of private copies
+	
+1
+Reference
+	
+See 
+FPGA Handbook : Kernel Memory for more information.
+Additional information
+	
+
+    Requested size 524288 bytes, implemented size 4194304 bytes, stall-free, 8 reads and 1 write. 
+    For each bank, 8 replicates were created to efficiently support multiple accesses. To reduce this factor, reduce number of read and write accesses.
+    Private memory implemented in on-chip block RAM.
