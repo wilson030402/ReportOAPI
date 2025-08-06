@@ -1,0 +1,36 @@
+Thales Group, « Historique », Thales Group, disponible sur : https://www.thalesgroup.com/fr/global/groupe/historique (consulté le 10 mars 2025).
+
+Voici les notices bibliographiques pour les dix liens fournis, indiquant pour chaque source l’auteur institutionnel, la date de publication (lorsqu’elle est disponible) et la date de consultation (6 août 2025) :
+
+## Notice bibliographique
+
+1. Intel Corporation. (n.d.). *oneAPI DPC++ Compiler and Runtime architecture design*. Consulté le 6 août 2025, sur [https://intel.github.io/llvm/design/CompilerAndRuntimeDesign.html](https://intel.github.io/llvm/design/CompilerAndRuntimeDesign.html) ([intel.github.io][1])
+
+2. Khronos Group. (2022, 13 octobre). *SPV\_INTEL\_fpga\_loop\_controls*. SPIR-V Registry. Consulté le 6 août 2025, sur [https://github.khronos.org/SPIRV-Registry/extensions/ALTERA/SPV\_INTEL\_fpga\_loop\_controls.html](https://github.khronos.org/SPIRV-Registry/extensions/ALTERA/SPV_INTEL_fpga_loop_controls.html) ([github.khronos.org][2])
+
+3. Thales Group. (n.d.). *À propos de Thales*. Consulté le 6 août 2025, sur [https://www.thalesgroup.com/fr/global/groupe](https://www.thalesgroup.com/fr/global/groupe) ([Thales Group][3])
+
+4. Thales Group. (2025). *ATTACK, RECCE, NAVIGATION*. Consulté le 6 août 2025, sur [https://www.thalesgroup.com/en/attack-recce-navigation](https://www.thalesgroup.com/en/attack-recce-navigation) ([Thales Group][4])
+
+5. CIRCT Project. (n.d.). *Passes*. Consulté le 6 août 2025, sur [https://circt.llvm.org/docs/Passes/](https://circt.llvm.org/docs/Passes/) ([circt.llvm.org][5])
+
+6. Intel Corporation. (2022, 17 novembre). *Intel® Agilex™ Variable Precision DSP Blocks User Guide* (Section 1.1: Features). Document ID 683037. Consulté le 6 août 2025, sur [https://www.intel.com/content/www/us/en/docs/programmable/683037/21-2/features-88692.html](https://www.intel.com/content/www/us/en/docs/programmable/683037/21-2/features-88692.html) ([Intel][6])
+
+7. hlslibs. (n.d.). *AC Datatypes Reference* (ac\_datatypes\_ref.pdf). Consulté le 6 août 2025, sur [https://github.com/hlslibs/ac\_types/blob/master/pdfdocs/ac\_datatypes\_ref.pdf](https://github.com/hlslibs/ac_types/blob/master/pdfdocs/ac_datatypes_ref.pdf) ([GitHub][7])
+
+8. Intel Corporation. (n.d.). *Kit de développement (P-Tile et E-Tile) pour FPGA Agilex™ 7 série F*. Consulté le 6 août 2025, sur [https://www.intel.fr/content/www/fr/fr/products/details/fpga/development-kits/agilex/agf014.html](https://www.intel.fr/content/www/fr/fr/products/details/fpga/development-kits/agilex/agf014.html) ([Intel][8])
+
+9. Intel Corporation. (2024, 22 novembre). *Agilex™ 7 FPGA – Nios® V Processor with DMA and OCM Design Example* (Design Example ID 839416). Consulté le 6 août 2025, sur [https://www.intel.com/content/www/us/en/design-example/839416/agilex-7-fpga-nios-v-processor-with-dma-and-ocm-design-example.html](https://www.intel.com/content/www/us/en/design-example/839416/agilex-7-fpga-nios-v-processor-with-dma-and-ocm-design-example.html) ([Intel][9])
+
+10. Intel Corporation. (2025, 26 mars). *Unified FFT IPs User Guide: About the Unified FFT IPs*. Document ID 683366. Consulté le 6 août 2025, sur [https://www.intel.com/content/www/us/en/docs/programmable/683366/24-1-1-0-8/about-the-unified-fft-ips.html](https://www.intel.com/content/www/us/en/docs/programmable/683366/24-1-1-0-8/about-the-unified-fft-ips.html) ([Intel][10])
+
+[1]: https://intel.github.io/llvm/design/CompilerAndRuntimeDesign.html "oneAPI DPC++ Compiler and Runtime architecture design — oneAPI DPC++ Compiler  documentation"
+[2]: https://github.khronos.org/SPIRV-Registry/extensions/ALTERA/SPV_INTEL_fpga_loop_controls.html "SPV_INTEL_fpga_loop_controls"
+[3]: https://www.thalesgroup.com/fr/global/groupe "À propos de Thales | Thales Group"
+[4]: https://www.thalesgroup.com/en/attack-recce-navigation "ATTACK, RECCE, NAVIGATION | Thales Group"
+[5]: https://circt.llvm.org/docs/Passes/ "Passes - CIRCT"
+[6]: https://www.intel.com/content/www/us/en/docs/programmable/683037/21-2/features-88692.html "1.1. Features"
+[7]: https://github.com/hlslibs/ac_types/blob/master/pdfdocs/ac_datatypes_ref.pdf "ac_types/pdfdocs/ac_datatypes_ref.pdf at master · hlslibs/ac_types · GitHub"
+[8]: https://www.intel.fr/content/www/fr/fr/products/details/fpga/development-kits/agilex/agf014.html "Kit de développement (P-Tile et E-Tile) pour FPGA Agilex™ 7 série F"
+[9]: https://www.intel.com/content/www/us/en/design-example/839416/agilex-7-fpga-nios-v-processor-with-dma-and-ocm-design-example.html "Agilex™ 7 FPGA – Nios® V Processor with DMA and OCM Design Example"
+[10]: https://www.intel.com/content/www/us/en/docs/programmable/683366/24-1-1-0-8/about-the-unified-fft-ips.html "1. About the Unified FFT IPs"
